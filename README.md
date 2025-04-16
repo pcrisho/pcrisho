@@ -24,8 +24,8 @@ Explora todos mis proyectos en [mis repositorios](https://github.com/pcrisho?tab
 
 Puedes escribirme por correo o encontrarme en LinkedIn:
 
-- ✉️ [paolo_crisostomo@outlook.com]
-- 💼 [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/paolo-crisostomo/)
+- ✉️ paolo_crisostomo@outlook.com
+- 💼 linkedin.com/in/paolo-crisostomo/
 
 ## 🛠️ Tecnologías y herramientas
 
