@@ -15,8 +15,8 @@ Soy estudiante de Ingeniería Empresarial y de Sistemas cursando el 7mo ciclo, a
 
 ## 💼 Proyectos destacados
 
-- 🔧 **Sistema de Gestión de Inventario para una cafetería (Proyecto Universitario**: Breve descripción o link a un proyecto clave.
-- 📊 **Sistema de Toma de Citas para una Clínica (Proyecto Universitario)**: Herramienta de análisis o automatización.
+- 🔧 **Sistema de Gestión de Inventario para una cafetería (Proyecto Universitario**: Desarrollado con JSP, CSS, SQL Server, Web Servlets y patrón de diseño MVC para mejorar la modularización del código y la eficiencia operativa.
+- 📊 **Sistema de Toma de Citas para una Clínica (Proyecto Universitario)**: Implementado en Python siguiendo un patrón de diseño estructurado, con despliegue mediante la terminal de Visual Studio Code.
 
 Explora todos mis proyectos en [mis repositorios](https://github.com/pcrisho?tab=repositories).
 
