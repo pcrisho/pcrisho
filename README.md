@@ -25,7 +25,7 @@ Explora todos mis proyectos en [mis repositorios](https://github.com/pcrisho?tab
 Puedes escribirme por correo o encontrarme en LinkedIn:
 
 - ✉️ paolo_crisostomo@outlook.com
-- 💼 linkedin.com/in/paolo-crisostomo/
+- 💼 [LinkedIn](https://www.linkedin.com/in/paolo-crisostomo/).
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -45,11 +45,11 @@ Puedes escribirme por correo o encontrarme en LinkedIn:
 - Scrum, Kanban
 
 ### Habilidades Blandas
-- Comunicación efectiva, liderazgo, trabajo en equipo
+- Comunicación efectiva, liderazgo, trabajo en equipo, pensamiento analítico, adaptabilidad, gestión de tiempo, proactividad y capacidad de aprendizaje continuo.
 
 ## 🌱 En constante aprendizaje...
 
-Estoy trabajando en proyectos como una plataforma para estudiantes universitarios en Perú, con funcionalidades como:
+Estoy trabajando en proyectos como una plataforma para estudiantes universitarios con funcionalidades como:
 
 - Calculadora de promedios
 - Horarios personalizados
@@ -60,4 +60,4 @@ Estoy trabajando en proyectos como una plataforma para estudiantes universitario
 
 ¡Así también como en el redespliegue de un anterior proyecto con más funcionalidades y aplicando nuevas tecnologías que he estado aprendiendo!
 
-Gracias por visitar mi perfil. ¡Nos leemos pronto! 🚀
+Gracias por visitar mi perfil. ¡Nos vemos pronto! 🚀
